@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Hi 👋! My name is Eduardo Henrique</h2>
 
 ###
