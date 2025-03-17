@@ -23,9 +23,11 @@
 
 ###
 
-<br clear="both">
+---
 
 <h4 align="center">Technologies & Tools</h4>
+
+***
 
 ###
 
@@ -59,9 +61,11 @@
 
 ###
 
-<br clear="both">
+---
 
 <h4 align="center">Connect With Me</h4>
+
+---
 
 ###
 
