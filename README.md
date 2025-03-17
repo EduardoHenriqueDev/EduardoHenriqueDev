@@ -6,9 +6,6 @@
 
 <h2 align="center">Hi 👋! My name is Eduardo Henrique</h2>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <img height="130" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
